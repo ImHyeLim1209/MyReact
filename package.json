@@ -1,0 +1,21 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "build my react",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImHyeLim1209/MyReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImHyeLim1209/MyReact/issues"
+  },
+  "homepage": "https://github.com/ImHyeLim1209/MyReact#readme"
+}
